@@ -4,3 +4,8 @@ https://stackoverflow.com/questions/44933639/fastest-way-to-read-a-binary-file-w
 
 github Tutorial
 https://www.youtube.com/watch?v=RGOj5yH7evk
+
+kalman filter
+https://filterpy.readthedocs.io/en/latest/index.html#id6
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
