@@ -9,3 +9,6 @@ kalman filter
 https://filterpy.readthedocs.io/en/latest/index.html#id6
 https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
+# python tkinter GUI
+Having frames next to each other in Tkinter
+https://stackoverflow.com/questions/45122244/having-frames-next-to-each-other-in-tkinter
