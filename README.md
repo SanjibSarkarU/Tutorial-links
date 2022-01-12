@@ -32,3 +32,7 @@ You can then install the .whl file with pip install filename.whl while the virtu
 For Pycharm venv's the path is 'path_to_venv/Scripts/activate.bat – 
 Awebb
  Sep 30 '16 at 12:36 
+
+
+# 201 - Working with geotiff files using rasterio in python (also quick demo of NDVI calculation)
+https://www.youtube.com/watch?v=ieyODuIjXp4
