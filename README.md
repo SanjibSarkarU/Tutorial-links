@@ -36,3 +36,8 @@ Awebb
 
 # 201 - Working with geotiff files using rasterio in python (also quick demo of NDVI calculation)
 https://www.youtube.com/watch?v=ieyODuIjXp4
+
+# You can remove NaNs using a mask:
+https://stackoverflow.com/questions/13643363/linear-regression-of-arrays-containing-nans-in-python-numpy
+mask = ~np.isnan(varx) & ~np.isnan(vary)
+slope, intercept, r_value, p_value, std_err = stats.linregress(varx[mask], vary[mask])
