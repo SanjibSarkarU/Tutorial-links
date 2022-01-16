@@ -41,3 +41,6 @@ https://www.youtube.com/watch?v=ieyODuIjXp4
 https://stackoverflow.com/questions/13643363/linear-regression-of-arrays-containing-nans-in-python-numpy
 mask = ~np.isnan(varx) & ~np.isnan(vary)
 slope, intercept, r_value, p_value, std_err = stats.linregress(varx[mask], vary[mask])
+
+# Class
+https://www.youtube.com/watch?v=E7vUSmNktJM&list=PLXlKT56RD3kBMTZfn3lYjR_krGkHM9emv&index=2
