@@ -44,3 +44,6 @@ slope, intercept, r_value, p_value, std_err = stats.linregress(varx[mask], vary[
 
 # Class
 https://www.youtube.com/watch?v=E7vUSmNktJM&list=PLXlKT56RD3kBMTZfn3lYjR_krGkHM9emv&index=2
+
+# Matplotlib Animation
+https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
