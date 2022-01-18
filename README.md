@@ -50,3 +50,6 @@ https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
 
 # python instance object life cycle 
 https://betterprogramming.pub/the-life-cycle-of-python-instance-objects-4a719fb4e925
+
+#  Python library for real and complex floating-point arithmetic with arbitrary precision
+https://mpmath.org/
