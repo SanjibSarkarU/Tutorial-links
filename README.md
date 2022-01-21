@@ -53,3 +53,6 @@ https://betterprogramming.pub/the-life-cycle-of-python-instance-objects-4a719fb4
 
 #  Python library for real and complex floating-point arithmetic with arbitrary precision
 https://mpmath.org/
+
+# Corey Schafer: Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
+https://www.youtube.com/watch?v=Ercd-Ip5PfQ
