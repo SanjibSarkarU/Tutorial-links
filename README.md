@@ -56,3 +56,6 @@ https://mpmath.org/
 
 # Corey Schafer: Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
 https://www.youtube.com/watch?v=Ercd-Ip5PfQ
+
+# Line of best fit (Linear regression) over vertical line
+https://stats.stackexchange.com/questions/57685/line-of-best-fit-linear-regression-over-vertical-line
