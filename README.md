@@ -62,3 +62,6 @@ https://stats.stackexchange.com/questions/57685/line-of-best-fit-linear-regressi
 
 # Line of best fit (Linear regression) over vertical line
 https://stats.stackexchange.com/questions/57685/line-of-best-fit-linear-regression-over-vertical-line
+
+# Python style guide PEP-8
+https://www.python.org/dev/peps/pep-0008/
