@@ -80,3 +80,6 @@ https://blog.finxter.com/python-how-to-import-modules-from-another-folder/
 
 # NMEA 
 http://aprs.gids.nl/nmea/#rmc
+
+# TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
+https://www.youtube.com/watch?v=tPYj3fFJGjk
