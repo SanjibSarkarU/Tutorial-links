@@ -77,3 +77,6 @@ https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
 https://blog.finxter.com/python-how-to-import-modules-from-another-folder/
 
 # [y for x in range(3) for y in [x, x]]; [0, 0, 1, 1, 2, 2]
+
+# NMEA 
+http://aprs.gids.nl/nmea/#rmc
