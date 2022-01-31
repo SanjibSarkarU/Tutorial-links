@@ -68,3 +68,6 @@ https://www.python.org/dev/peps/pep-0008/
 
 #LSTM time series prediction: sine wave example
 https://www.kaggle.com/carlmcbrideellis/lstm-time-series-prediction-sine-wave-example
+
+# How to Kill a Python Thread
+https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
