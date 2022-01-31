@@ -1,17 +1,17 @@
-# Tutorial-links
-Fastest way to read a binary file with a defined format
+#Fastest way to read a binary file with a defined format
 https://stackoverflow.com/questions/44933639/fastest-way-to-read-a-binary-file-with-a-defined-format
 
-github Tutorial
+#github Tutorial
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-kalman filter
+#kalman filter
 https://filterpy.readthedocs.io/en/latest/index.html#id6
 https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
 # python tkinter GUI
 Having frames next to each other in Tkinter
 https://stackoverflow.com/questions/45122244/having-frames-next-to-each-other-in-tkinter
+https://web.archive.org/web/20200315112731/http://effbot.org/tkinterbook/
 
 # Unofficial Windows Binaries for Python Extension Packages
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
