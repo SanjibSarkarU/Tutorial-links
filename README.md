@@ -65,3 +65,6 @@ https://stats.stackexchange.com/questions/57685/line-of-best-fit-linear-regressi
 
 # Python style guide PEP-8
 https://www.python.org/dev/peps/pep-0008/
+
+#LSTM time series prediction: sine wave example
+https://www.kaggle.com/carlmcbrideellis/lstm-time-series-prediction-sine-wave-example
