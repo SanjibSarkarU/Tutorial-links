@@ -72,3 +72,6 @@ https://www.kaggle.com/carlmcbrideellis/lstm-time-series-prediction-sine-wave-ex
 
 # How to Kill a Python Thread
 https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
+
+# Import Modules From Another Folder
+https://blog.finxter.com/python-how-to-import-modules-from-another-folder/
