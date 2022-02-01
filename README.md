@@ -98,3 +98,6 @@ https://www.youtube.com/watch?v=tPYj3fFJGjk
 
 IVER 3
 https://www.environmental-expert.com/products/model-iver3-open-system-autonomous-underwater-vehicles-auvs-606524
+
+#GIT
+https://www.youtube.com/watch?v=6vvUevxlOp8
