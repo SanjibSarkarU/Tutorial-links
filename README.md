@@ -95,3 +95,6 @@ https://www.youtube.com/watch?v=tPYj3fFJGjk
             self._xy = np.column_stack(np.broadcast_arrays(x, y)).astype(float)
 
 ![img.png](img.png)
+
+IVER 3
+https://www.environmental-expert.com/products/model-iver3-open-system-autonomous-underwater-vehicles-auvs-606524
