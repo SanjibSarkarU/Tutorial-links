@@ -83,3 +83,15 @@ http://aprs.gids.nl/nmea/#rmc
 
 # TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
 https://www.youtube.com/watch?v=tPYj3fFJGjk
+
+# EDIT MATLPLOTLIB
+"""Edits to catch race condition"""
+        if x.size != y.size:
+            logging.warning('line xy data not of the same length. ' +
+                'This is due to a race condition where the line is updated while being plotted')
+            minl= min(x.size, y.size)
+            self._xy = np.column_stack(np.broadcast_arrays(x[:minl], y[:minl])).astype(float)
+        else:
+            self._xy = np.column_stack(np.broadcast_arrays(x, y)).astype(float)
+
+![img.png](img.png)
