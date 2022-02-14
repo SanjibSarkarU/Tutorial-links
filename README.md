@@ -104,3 +104,6 @@ https://www.youtube.com/watch?v=6vvUevxlOp8
 
 # Thread inheritance
 https://stackoverflow.com/questions/32382793/inheritance-threading-thread-class-does-not-work
+
+#ML
+https://machinelearningmastery.com/start-here/
