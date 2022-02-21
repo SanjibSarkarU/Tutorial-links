@@ -107,3 +107,6 @@ https://stackoverflow.com/questions/32382793/inheritance-threading-thread-class-
 
 #ML
 https://machinelearningmastery.com/start-here/
+
+#logger
+https://www.youtube.com/watch?v=jxmzY9soFXg
