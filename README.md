@@ -110,3 +110,6 @@ https://machinelearningmastery.com/start-here/
 
 #logger
 https://www.youtube.com/watch?v=jxmzY9soFXg
+
+#Time series
+https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
