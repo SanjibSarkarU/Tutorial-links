@@ -115,3 +115,5 @@ https://www.youtube.com/watch?v=jxmzY9soFXg
 https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
 # Cousera tensorflow BATCH
 https://stackoverflow.com/questions/71211053/what-tensorflows-flat-map-window-batch-does-to-a-dataset-array
+#prefetch tensorflow
+https://stackoverflow.com/questions/66796379/is-tensorflow-dataset-prefetch-method-add-a-dimension-for-my-data-why
