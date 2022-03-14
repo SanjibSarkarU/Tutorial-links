@@ -117,3 +117,6 @@ https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-
 https://stackoverflow.com/questions/71211053/what-tensorflows-flat-map-window-batch-does-to-a-dataset-array
 #prefetch tensorflow
 https://stackoverflow.com/questions/66796379/is-tensorflow-dataset-prefetch-method-add-a-dimension-for-my-data-why
+
+# Software defined radio 
+https://greatscottgadgets.com/sdr/1/
