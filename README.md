@@ -120,3 +120,6 @@ https://stackoverflow.com/questions/66796379/is-tensorflow-dataset-prefetch-meth
 
 # Software defined radio 
 https://greatscottgadgets.com/sdr/1/
+
+# DNN: make a dataset for a DNN
+https://stackoverflow.com/questions/71211053/what-tensorflows-flat-map-window-batch-does-to-a-dataset-array
